@@ -1,5 +1,7 @@
 // Este archivo contiene el código JavaScript para la funcionalidad de la página web, manejando interacciones y dinámicas del sitio. 
 
+import { algo } from './archivo.js';
+
 document.addEventListener('DOMContentLoaded', function() {
     // Aquí puedes agregar código para manejar interacciones en la página
     console.log('La página ha sido cargada y está lista para interactuar.');
